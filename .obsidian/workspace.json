@@ -11,14 +11,14 @@
             "id": "a488129b0cce86a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Правила/Снаряжение/Оружие.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Оружие"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "a488129b0cce86a9",
   "lastOpenFiles": [
-    "Правила/Снаряжение/Доспехи.md",
     "Правила/Снаряжение/Оружие.md",
+    "Правила/Снаряжение/Доспехи.md",
     "Без названия.base",
     "Персонажи/Трессендар, Альберт.md",
     "Локации/Фандалин/Трессендары.md",
