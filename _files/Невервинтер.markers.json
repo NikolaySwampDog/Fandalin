@@ -1,0 +1,423 @@
+{
+  "size": {
+    "w": 1280,
+    "h": 989
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_opm0vz",
+      "x": 0.21434752645430036,
+      "y": 0.5505227432193419,
+      "layer": "default",
+      "link": "Зал правосудия",
+      "iconKey": "храм",
+      "tooltip": "Зал правосудия",
+      "iconColor": "#0c00ad"
+    },
+    {
+      "type": "pin",
+      "id": "marker_5a0ipj",
+      "x": 0.26526988636363635,
+      "y": 0.4704591414652082,
+      "layer": "default",
+      "link": "Замок Невер",
+      "iconKey": "башня",
+      "tooltip": "Замок Невер",
+      "iconColor": "#0c00ad"
+    },
+    {
+      "type": "pin",
+      "id": "marker_zctjqs",
+      "x": 0.2561617523162831,
+      "y": 0.5293955189272468,
+      "layer": "default",
+      "link": "Мост Спящего Дракона",
+      "iconKey": "мост",
+      "tooltip": "Мост Спящего Дракона (разрушен)",
+      "iconColor": "#d10000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_hxr9ef",
+      "x": 0.30928060377083766,
+      "y": 0.5091821159930704,
+      "layer": "default",
+      "link": "Мост крылатой виверны",
+      "iconKey": "мост",
+      "tooltip": "Мост крылатой виверны",
+      "iconColor": "#00611d"
+    },
+    {
+      "type": "pin",
+      "id": "marker_934idx",
+      "x": 0.33605594055389154,
+      "y": 0.4621776368707502,
+      "layer": "default",
+      "link": "Мост дельфина",
+      "iconKey": "мост",
+      "tooltip": "Мост дельфина (разрушен)",
+      "iconColor": "#d10000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_g7awk2",
+      "x": 0.2828331966904115,
+      "y": 0.6087060700878942,
+      "layer": "default",
+      "link": "Клинки на продажу",
+      "iconKey": "топоры",
+      "tooltip": "Клинки на продажу (гильдия авантюристов)",
+      "iconColor": "#0c00ad"
+    },
+    {
+      "type": "pin",
+      "id": "marker_c5m894",
+      "x": 0.3201904110365985,
+      "y": 0.7337794664222302,
+      "layer": "default",
+      "link": "Оружие ручной работы Аллиса Лисича и магическое оружие для благородных целей",
+      "iconKey": "меч",
+      "tooltip": "Магазин оружия",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_j38i3m",
+      "x": 0.4227071265706033,
+      "y": 0.43406100345564474,
+      "layer": "default",
+      "link": "Дом знаний",
+      "iconKey": "храм",
+      "tooltip": "Храм Огмы",
+      "iconColor": "#0c00ad"
+    },
+    {
+      "type": "pin",
+      "id": "marker_zbz71a",
+      "x": 0.37880859375,
+      "y": 0.7552609959555107,
+      "layer": "default",
+      "link": "Железная фляга",
+      "iconKey": "пиво",
+      "tooltip": "Гостинница \"Железная фляга\"",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_uvslo2",
+      "x": 0.4728299511718748,
+      "y": 0.7586275230662283,
+      "layer": "default",
+      "link": "Невердес",
+      "iconKey": "могила",
+      "tooltip": "Кладбище Невердес (для простолюдинов)",
+      "iconColor": "#0c00ad"
+    },
+    {
+      "type": "pin",
+      "id": "marker_cjqz12",
+      "x": 0.5151515917968748,
+      "y": 0.6779465827224466,
+      "layer": "default",
+      "link": "Невердес",
+      "iconKey": "могила",
+      "tooltip": "Кладбище Невердес (главное)",
+      "iconColor": "#0c00ad"
+    },
+    {
+      "type": "pin",
+      "id": "marker_6yfheg",
+      "x": 0.47919921875,
+      "y": 0.5767979019211324,
+      "layer": "default",
+      "link": "Сияющие доспехи и оружие для рыцарей",
+      "iconKey": "меч",
+      "tooltip": "Магазин оружия",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_dv0sud",
+      "x": 0.36005859375,
+      "y": 0.4873135743174924,
+      "layer": "default",
+      "link": "Карты и легенды Маскадо",
+      "iconKey": "свиток",
+      "tooltip": "Магазин карт Маскадо",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_5jhh31",
+      "x": 0.62607421875,
+      "y": 0.5024804095045501,
+      "layer": "default",
+      "link": "Сияющая змея",
+      "iconKey": "пиво",
+      "tooltip": "Гостинница",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_mlgq9j",
+      "x": 0.18271484375,
+      "y": 0.5403974974721941,
+      "layer": "default",
+      "link": "Торговый дом Тармалюн",
+      "iconKey": "pinRed",
+      "tooltip": "Торговый дом Тармалюн",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_x8e02u",
+      "x": 0.11306640625,
+      "y": 0.5296290444893832,
+      "layer": "default",
+      "link": "Маска Лунного Камня",
+      "iconKey": "пиво",
+      "tooltip": "",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_3f3p43",
+      "x": 0.18857421875,
+      "y": 0.4433297522750253,
+      "layer": "default",
+      "link": "Плавняк",
+      "iconKey": "вилка-нож",
+      "tooltip": "Таверна Плавняк",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_h0gigd",
+      "x": 0.15029296875,
+      "y": 0.4317018452982811,
+      "layer": "default",
+      "link": "Левиафан на берегу",
+      "iconKey": "вилка-нож",
+      "tooltip": "Таверна \"Левиафан на берегу\"",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_o8ow8x",
+      "x": 0.145552236266837,
+      "y": 0.3886898449713791,
+      "layer": "default",
+      "link": "Многоденег",
+      "iconKey": "брильянт",
+      "tooltip": "Многоденег",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_6q2pdb",
+      "x": 0.3339060877355332,
+      "y": 0.34145030809077564,
+      "layer": "default",
+      "link": "Дом тысячи лиц",
+      "iconKey": "вилка-нож",
+      "tooltip": "Таверна \"Дом тысячи лиц\"",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_lgyqop",
+      "x": 0.4665180615837355,
+      "y": 0.1727478988609151,
+      "layer": "default",
+      "link": "Осколок луны",
+      "iconKey": "храм",
+      "tooltip": "Храм Селуне",
+      "iconColor": "#0c00ad"
+    },
+    {
+      "type": "pin",
+      "id": "marker_6tcic4",
+      "x": 0.4323807749813219,
+      "y": 0.19562228708478932,
+      "layer": "default",
+      "link": "Опустевший стол",
+      "iconKey": "мясо",
+      "tooltip": "Ресторан \"Опустевший стол\"",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_vl96ex",
+      "x": 0.5940382787568785,
+      "y": 0.20869800684103537,
+      "layer": "default",
+      "link": "Упавшая башня",
+      "iconKey": "вилка-нож",
+      "tooltip": "Таверна \"Упавшая башня\"",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_ez855b",
+      "x": 0.7652344531871947,
+      "y": 0.266471459544171,
+      "layer": "default",
+      "link": "Башня плащей",
+      "iconKey": "башня",
+      "tooltip": "Башня плащей",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_od0fhs",
+      "x": 0.692303257632295,
+      "y": 0.2981819077039519,
+      "layer": "default",
+      "link": "Гильдия купцов",
+      "iconKey": "чернила",
+      "tooltip": "Гильдия купцов",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_zqyuf3",
+      "x": 0.37607421875,
+      "y": 0.48326908493427706,
+      "layer": "default",
+      "link": "Башня утешения",
+      "iconKey": "башня",
+      "tooltip": "Башня утешения",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_1uvmty",
+      "x": 0.3527683359375,
+      "y": 0.5490506420626896,
+      "layer": "default",
+      "link": "Штаб Винтершилдов",
+      "iconKey": "топоры",
+      "tooltip": "Штаб Винтершилдов",
+      "iconColor": "#0c00ad"
+    },
+    {
+      "type": "pin",
+      "id": "marker_joa1ne",
+      "x": 0.19254760742106303,
+      "y": 0.3324239237601286,
+      "layer": "default",
+      "link": "Немая лютня",
+      "iconKey": "ремонт",
+      "tooltip": "Мастерская \"Немая лютня\"",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_rm2syy",
+      "x": 0.18109681240959713,
+      "y": 0.35239875763074746,
+      "layer": "default",
+      "link": "Механические диковинки Даннара",
+      "iconKey": "ремонт",
+      "tooltip": "Магазин \"Механические диковинки Даннара\"",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_yd3ngb",
+      "x": 0.17263318131416577,
+      "y": 0.3749509894201559,
+      "layer": "default",
+      "link": "Изысканный фарфор Джаесора",
+      "iconKey": "ремонт",
+      "tooltip": "Магазин \"Изысканный фарфор Джаесора\"",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_nnq4id",
+      "x": 0.29809406578761866,
+      "y": 0.39814757068926176,
+      "layer": "default",
+      "link": "Храм Вокин в Невервинтере",
+      "iconKey": "храм",
+      "tooltip": "Храм Вокин",
+      "iconColor": "#0c00ad"
+    },
+    {
+      "type": "pin",
+      "id": "marker_9h88lw",
+      "x": 0.22568359375,
+      "y": 0.34019527300303337,
+      "layer": "default",
+      "link": "Академия Старшайн",
+      "iconKey": "чернила",
+      "tooltip": "Академия искусств Старшайн",
+      "iconColor": "#000000"
+    },
+    {
+      "type": "pin",
+      "id": "marker_c4kvkl",
+      "x": 0.32404556936594603,
+      "y": 0.3856631388678715,
+      "layer": "default",
+      "link": "",
+      "iconKey": "pinRed",
+      "tooltip": "Анклав Тэя"
+    },
+    {
+      "type": "pin",
+      "id": "marker_iyx63b",
+      "x": 0.46973028114480797,
+      "y": 0.33128362654027665,
+      "layer": "default",
+      "link": "Священный храм Селунэ",
+      "iconKey": "храм",
+      "tooltip": "Священный храм Селунэ",
+      "iconColor": "#0c00ad"
+    },
+    {
+      "type": "pin",
+      "id": "marker_s1452j",
+      "x": 0.33358530706500467,
+      "y": 0.1776900410648112,
+      "layer": "default",
+      "link": "Архив Невервинтера",
+      "iconKey": "свиток",
+      "tooltip": "Архив",
+      "iconColor": "#0c00ad"
+    }
+  ],
+  "bases": [
+    {
+      "path": "_files/Невервинтер.jpg"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "_files/Невервинтер.jpg",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": []
+}
