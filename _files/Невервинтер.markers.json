@@ -395,6 +395,17 @@
       "iconKey": "свиток",
       "tooltip": "Архив",
       "iconColor": "#0c00ad"
+    },
+    {
+      "type": "pin",
+      "id": "marker_vweade",
+      "x": 0.21673118862462637,
+      "y": 0.6031090994046274,
+      "layer": "default",
+      "link": "Лавка мудрости",
+      "iconKey": "свиток",
+      "tooltip": "Лавка мудрости",
+      "iconColor": "#000000"
     }
   ],
   "bases": [
