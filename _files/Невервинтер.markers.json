@@ -38,7 +38,7 @@
       "type": "pin",
       "id": "marker_zctjqs",
       "x": 0.2561617523162831,
-      "y": 0.5293955189272468,
+      "y": 0.5330723274574426,
       "layer": "default",
       "link": "Мост Спящего Дракона",
       "iconKey": "мост",
@@ -53,7 +53,8 @@
       "layer": "default",
       "iconKey": "мост",
       "tooltip": "Мост крылатой виверны",
-      "iconColor": "#00611d"
+      "iconColor": "#00611d",
+      "link": "Мост крылатой виверны"
     },
     {
       "type": "pin",
@@ -63,7 +64,8 @@
       "layer": "default",
       "iconKey": "мост",
       "tooltip": "Мост дельфина (разрушен)",
-      "iconColor": "#6b0000"
+      "iconColor": "#6b0000",
+      "link": "Мост дельфина"
     },
     {
       "type": "pin",
@@ -190,7 +192,8 @@
       "layer": "default",
       "iconKey": "шериф",
       "tooltip": "Штаб Винтершилдов",
-      "iconColor": "#0c00ad"
+      "iconColor": "#0c00ad",
+      "link": "Дозор Винтершилд"
     },
     {
       "type": "pin",
